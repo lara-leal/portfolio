@@ -11,7 +11,7 @@ Atualmente, trabalho como Analista de Sistemas na Farma Conde. Minhas principais
 
 
 
-<h1 align="center"> Projeto 1: 1º Semestre de 2021 </h1>
+<h1 align="center"><a href="https://github.com/silvercod3/Athena" style="color: white; text-decoration: none;"> Projeto 1: 1º Semestre de 2021 </a></h1>
 
 <div align="center"> Projeto Integrador - 1° Semestre | Fatec Prof. Jessen Vidal - 2021 | Cliente parceiro: Professor Fabiano Sabha </div>
 
@@ -147,7 +147,7 @@ Tendo também a oportunidade de conhecer metodologias ágeis e atuar como Scrum 
 
 
 
-<h1 align="center"> Projeto 2: 2º Semestre de 2021 </h1>
+<h1 align="center"><a href="https://github.com/PhatomFatec/PI_Necto_Systems" style="color: inherit; text-decoration: none;"> Projeto 2: 2º Semestre de 2021 </a></h1>
 
 <div align="center"> Projeto Integrador - 2° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Necto Systems </div>
 
@@ -222,7 +222,7 @@ O banco que usamos para realizar o monitoramento foi um banco PostgreSQL.
 
 
 
-<h1 align="center"> Projeto 3: 1º Semestre de 2022 </h1>
+<h1 align="center"><a href="https://github.com/PhatomFatec/PI_3Semestre" style="color: inherit; text-decoration: none;"> Projeto 3: 1º Semestre de 2022 </a></h1>
 
 <div align="center"> Projeto Integrador - 3° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Midall </div>
 
@@ -297,7 +297,7 @@ Já no front-End aprendi poucas coisas pois não foi minha principal foco de des
 
 
 
-<h1 align="center"> Projeto 4: 2º Semestre de 2022 </h1>
+<h1 align="center"><a href="https://github.com/PhatomFatec/API_SUBITER" style="color: inherit; text-decoration: none;"> Projeto 4: 2º Semestre de 2022 </a></h1>
 
 <div align="center"> Projeto Integrador - 4° Semestre | Fatec Prof. Jessen Vidal - 2022 | Cliente parceiro: Subiter </div>
 
@@ -360,7 +360,7 @@ Desenvolvi também os CRUDS das classes de Chamados, Usuários e Agendamentos e 
 
 
 
-<h1 align="center"> Projeto 5: 1º Semestre de 2023 </h1>
+<h1 align="center"><a href="https://github.com/PhatomFatec/Midall-DataTransfer" style="color: inherit; text-decoration: none;"> Projeto 5: 1º Semestre de 2023 </a></h1>
 
 <div align="center"> Projeto Integrador - 5° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Midall </div>
 
@@ -523,7 +523,7 @@ Outro tópico que tive como responsabilidade foi implementar o Issue Controll pa
 
 
 
-<h1 align="center"> Projeto 6: 2º Semestre de 2023 </h1>
+<h1 align="center"><a href="https://github.com/PhatomFatec/GeoForesight" style="color: inherit; text-decoration: none;"> Projeto 6: 2º Semestre de 2023 </a></h1>
 
 <div align="center"> Projeto Integrador - 6° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Visiona </div>
 
