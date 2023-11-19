@@ -365,7 +365,7 @@ Desenvolvi também os CRUDS das classes de Chamados, Usuários e Agendamentos e 
 <div align="center"> Projeto Integrador - 5° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Midall </div>
 
 ## Visão do Projeto
-Automatizar a jornada de download de arquivos, armazenados em uma plataforma de vídeo, efetuando essa transferência para a nuvem, através do desenvolvimento de um serviço tipo aplicação, tendo como funcionalidade junto ao usuário apenas um menu de configuração, que terá os parâmetros necessários para que o serviço de download seja executado. processar automaticamente, gerando alertas caso ocorram erros de processamento. Salvar metadados de arquivos para construção de dashboard de monitoramento da execução do serviço e posterior análise de resultados e indicadores (ex.: quantidade de arquivos transferidos, quantidade de bytes transferidos, tempo de transferência, etc.).
+Automatizar a jornada de download de arquivos, armazenados em uma plataforma de vídeo, efetuando essa transferência para à nuvem, através do desenvolvimento de um serviço tipo aplicação, tendo como funcionalidade junto ao usuário apenas um menu de configuração, que terá os parâmetros necessários para que o serviço de download seja executado. Processar automaticamente, gerando alertas caso ocorram quaisquer erros. Salvar metadados de arquivos para construção de dashboard de monitoramento da execução do serviço e posterior análise de resultados e indicadores (ex.: quantidade de arquivos transferidos, quantidade de bytes transferidos, tempo de transferência, etc.).
 
 ## Tecnologias adotadas na solução
 
@@ -382,7 +382,7 @@ A AWS (Amazon Web Services) é uma plataforma líder em serviços de computaçã
 O Google Drive é um serviço de armazenamento em nuvem oferecido pelo Google. Ele permite que os usuários armazenem, compartilhem e acessem arquivos e documentos de forma online. Com recursos de colaboração em tempo real, o Google Drive é amplamente utilizado para armazenar documentos, fotos, vídeos e outros tipos de arquivos de forma acessível a partir de qualquer dispositivo com acesso à internet. 
 
 ## Contribuições Pessoais
-Durante o desenvolvimento desse projeto, fui responsável na área de desenvolvimento na extração de metadados durante o envio de um arquivo do Google Drive para a AWS, para a elaboração da dashboard de monitoramento do cliente utilizando os recursos do fileMetadata do Google Drive API. 
+Durante a execução desse projeto, fui responsável na área de desenvolvimento na extração de metadados durante o envio de um arquivo do Google Drive para a AWS, para a elaboração da dashboard de monitoramento do cliente utilizando os recursos do fileMetadata do Google Drive API. 
 
 
 <details> 
@@ -455,7 +455,7 @@ Durante o desenvolvimento desse projeto, fui responsável na área de desenvolvi
     }
 	}
 	
-A parte mais desafiadora, foi compreender o funcionamento da API do Google pois tive que me aprofundar em leituras da documentação disponibilizada no Google e não existiam muitos artigos mais detalhados que pudessem nos auxiliar na implementação em nosso projeto. A parte de extração de metadados era crucial para que fosse possível seguir com o desenvolvimento do nosso Dashboard de monitoramento de desempenho da aplicação. A lógica utilizada para o desenvolvimento dessa funcionalidade foi: Após a realização do upload do arquivo (imagem ou vídeo) era realizado um GETresponsável por recuperar os metadados de um arquivo no Google Drive com base em seu ID. 
+A parte mais desafiadora, foi compreender o funcionamento da API do Google pois tive que me aprofundar em leituras da documentação disponibilizada no Google e não existiam muitos artigos mais detalhados que pudessem nos auxiliar na implementação em nosso projeto. A parte de extração de metadados era crucial para que fosse possível seguir com o desenvolvimento do nosso Dashboard de monitoramento de desempenho da aplicação. A lógica utilizada para o desenvolvimento dessa funcionalidade foi: Após a realização do upload do arquivo (imagem ou vídeo) era realizado um GET responsável por recuperar os metadados de um arquivo no Google Drive com base em seu ID. 
 
  </details>
 
@@ -507,7 +507,7 @@ MAXX (
 
  </details>
 
-Também nesse semestre atuei como Product Owner, onde fui responsável por realizar a prototipagem da aplicação utilizando a ferramenta Figma para que o cliente aprovasse o design da aplicação e validar se tinhamos entendido o desafio da maneira correta. Durante as sprints fui responsável por realizar a negociação da entregas, visando solucionar a dor do cliente e criar entregas possíveis para nosso time. 
+Também nesse semestre atuei como Product Owner, onde fui responsável por realizar a prototipagem da aplicação utilizando a ferramenta Figma para que o cliente aprovasse o design da aplicação e validar eventuais mudanças ao longo do projeto. Durante as sprints fui responsável por realizar a negociação da entregas, visando encontrar um equilíbrio entre a necessidade do cliente e o tempo de execução do time. 
 
 <img src="https://i.ibb.co/zfLLfdW/image.png" alt="image" border="0"></a>
 
