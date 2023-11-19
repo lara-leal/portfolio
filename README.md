@@ -11,6 +11,11 @@ Atualmente, trabalho como Analista de Sistemas na Farma Conde. Minhas principais
 
 ## Sumário
 - [Projeto 1](#projeto-1-1º-semestre-de-2021)
+- [Projeto 2: 2º Semestre de 2021](#projeto-2-2º-semestre-de-2021)
+- [Projeto 3: 1º Semestre de 2022](#projeto-3-1º-semestre-de-2022)
+- [Projeto 4: 2º Semestre de 2022](#projeto-4-2º-semestre-de-2022)
+- [Projeto 5: 1º Semestre de 2023](#projeto-5-1º-semestre-de-2023)
+- [Projeto 6: 2º Semestre de 2023](#projeto-6-2º-semestre-de-2023)
 
 <h1 align="center"> Projeto 1: 1º Semestre de 2021 </h1>
 
