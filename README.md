@@ -15,26 +15,25 @@ Atualmente, trabalho como Analista de Sistemas na Farma Conde. Minhas principais
 
 <div align="center"> Projeto Integrador - 1° Semestre | Fatec Prof. Jessen Vidal - 2021 | Cliente parceiro: Professor Fabiano Sabha </div>
 
-
 ## Visão do Projeto
 
-Com o propósito de trazer para os estudantes em geral uma forma mais centralizada e organizada de cuidar da vida acadêmica e se manter atualizado em suas atividades, criamos a Athena- Assistente Pessoal de Estudos. O seu diferencial é reunir diversas ferramentas úteis em um único lugar.
+Com o propósito de trazer para os estudantes, em geral, uma forma mais centralizada e organizada de cuidar da vida acadêmica e se manter atualizado em suas atividades, criamos a Athena- Assistente Pessoal de Estudos. O seu diferencial é reunir diversas ferramentas úteis em um único lugar.
 
 ## Tecnologias adotadas na solução
 
 ### Python
 
-Python é uma linguagem de programação popular que foi criada na década de 1990 por Guido van Rossum. É conhecida por sua sintaxe simples e fácil de ler, o que a torna uma ótima escolha para iniciantes em programação. Python é usado em muitas áreas diferentes, incluindo ciência de dados, desenvolvimento web, automação de tarefas, inteligência artificial e muito mais. É uma linguagem interpretada, o que significa que o código é executado linha por linha sem a necessidade de compilação. Além disso, Python é uma linguagem de programação de alto nível, o que significa que é mais próxima da linguagem humana do que de uma linguagem de máquina, tornando a programação em Python mais intuitiva e acessível para muitas pessoas.
+Python é uma linguagem de programação popular que foi criada na década de 1990 por Guido van Rossum. É conhecida por sua sintaxe simples e de fácil leitura, o que a torna uma ótima escolha para iniciantes em programação. Python é usada em muitas áreas diferentes, incluindo ciência de dados, desenvolvimento web, automação de tarefas, inteligência artificial e dentre outras. É uma linguagem interpretada, o que significa que o código é executado linha por linha sem a necessidade de compilação. Além disso, Python é uma linguagem de programação de alto nível, o que significa que é mais próxima da linguagem humana do que de uma linguagem de máquina, tornando a programação em Python mais intuitiva e acessível para muitas pessoas.
 
 ### **SQLite**
 
-SQLite é um sistema de gerenciamento de banco de dados relacional que é fácil de usar e não requer uma configuração complexa. Ele é conhecido por sua portabilidade, confiabilidade e eficiência, e é usado em muitas aplicações em dispositivos móveis e de desktop. O SQLite é incorporado diretamente em muitos aplicativos e sistemas operacionais, o que significa que não é necessário instalar nenhum software adicional para usar bancos de dados SQLite. Ele é executado em um único arquivo, tornando-o ideal para pequenos projetos ou para aplicações que não requerem uma grande quantidade de dados. Além disso, o SQLite é compatível com SQL, o que significa que você pode usar as mesmas consultas SQL que você usaria em outros sistemas de gerenciamento de banco de dados relacionais, como o MySQL ou o PostgreSQL.
+SQLite é um sistema de gerenciamento de banco de dados relacional que é fácil de usar e não requer uma configuração complexa. Um sistema conhecido por sua portabilidade, confiabilidade e eficiência e usado em muitas aplicações em dispositivos móveis e de desktop. O SQLite é incorporado diretamente em muitos aplicativos e sistemas operacionais, o que significa que não é necessário instalar nenhum software adicional para usar bancos de dados SQLite. Executado em um único arquivo, tornando-o ideal para pequenos projetos ou para aplicações que não requerem uma grande quantidade de dados. Além disso, o SQLite é compatível com SQL, possibilitando usar as mesmas consultas SQL que você usaria em outros sistemas de gerenciamento de banco de dados relacionais, como o MySQL ou o PostgreSQL.
 
 ### SpeechRecognition
 
-A biblioteca SpeechRecognition é uma ferramenta de reconhecimento de fala para a linguagem de programação Python. Com ela, é possível capturar e converter áudio em texto, tornando a interação com aplicativos mais intuitiva e acessível.
+A biblioteca SpeechRecognition é uma ferramenta de reconhecimento de fala para a linguagem de programação Python. Com essa ferramenta, é possível capturar e converter áudio em texto, tornando a interação com aplicativos mais intuitiva e acessível.
 
-Com essa biblioteca, é possível desenvolver aplicativos que utilizam a fala como entrada de dados, como assistentes virtuais, sistemas de controle de voz, transcrições de áudio, entre outros. A biblioteca SpeechRecognition simplifica muito a tarefa de processar áudio em texto, permitindo que desenvolvedores implementem recursos de reconhecimento de fala em suas aplicações de forma rápida e fácil.
+Também, é possível desenvolver aplicativos que utilizam a fala como entrada de dados, como assistentes virtuais, sistemas de controle de voz, transcrições de áudio, entre outros. A biblioteca SpeechRecognition simplifica muito a tarefa de processar áudio em texto, permitindo que desenvolvedores implementem recursos de reconhecimento de fala em suas aplicações de forma rápida e fácil.
 
 ### Interface com o usuário
 
@@ -153,17 +152,17 @@ Tendo também a oportunidade de conhecer metodologias ágeis e atuar como Scrum 
 
 ## Visão do Projeto
 
-Desenvolver um software integrado que monitore e apresente métricas referentes ao uso e a saúde do SGBD em tempo real. Além de oferecer um pós gerenciamento de múltiplos BD’s no servidor, como diferencial.
+Um software integrado que monitore e apresente métricas referentes ao uso e a saúde do SGBD em tempo real. Além de oferecer um pós gerenciamento de múltiplos BD’s no servidor, como diferencial.
 
 ## Tecnologias adotadas na solução
 
 ### Java
 
-Java é uma linguagem de programação orientada a objetos que foi criada na década de 1990 pela Sun Microsystems, e atualmente é propriedade da Oracle Corporation. É uma das linguagens de programação mais populares do mundo, usada em uma ampla variedade de aplicativos e sistemas, desde desenvolvimento de aplicativos desktop e web até jogos e dispositivos móveis.
+Java é uma linguagem de programação orientada a objetos que foi criada na década de 1990 pela Sun Microsystems, e é propriedade da Oracle Corporation. É uma das linguagens de programação mais populares do mundo usada em uma ampla variedade de aplicativos e sistemas, desde desenvolvimento de aplicativos desktop e web até jogos e dispositivos móveis.
 
 ### PostgreSQL
 
-PostgreSQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) de código aberto e altamente confiável. Ele é amplamente conhecido por sua robustez, escalabilidade e recursos avançados que o tornam uma escolha popular para uma variedade de aplicações.
+PostgreSQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) de código aberto e altamente confiável. É amplamente conhecido por sua robustez, escalabilidade e recursos avançados que o tornam uma escolha popular para uma variedade de aplicações.
 
 Uma das principais características do PostgreSQL é sua capacidade de suportar grandes volumes de dados e cargas de trabalho intensivas.
 
@@ -171,7 +170,7 @@ Uma das principais características do PostgreSQL é sua capacidade de suportar 
 
 O SQLite é um banco de dados embutido, rápido e leve que não requer um servidor separado para funcionar. Diferente dos bancos de dados tradicionais, o SQLite armazena todo o banco de dados em um único arquivo, tornando-o fácil de implantar e usar em aplicativos.
 
-O SQLite é amplamente utilizado em aplicativos móveis, desktop e em outras aplicações que precisam de um banco de dados local. Ele é escrito em linguagem C e disponibiliza uma interface simples através de comandos SQL para executar operações de banco de dados, como criação de tabelas, inserção, atualização, exclusão e consulta de dados.
+O SQLite é amplamente utilizado em aplicativos móveis, desktop e em outras aplicações que precisam de um banco de dados local e escrito em linguagem C e disponibiliza uma interface simples através de comandos SQL para executar operações de banco de dados, como criação de tabelas, inserção, atualização, exclusão e consulta de dados.
 
 ### Interface com o usuário
 
@@ -187,11 +186,11 @@ Para extrair as métricas utilizei como referencia um artigo **“Extraindo Meta
 - pg_stat_database
 - information_schema.tables
 
-A maior parte do esforço desse semestre foi encontrar documentação que nos instruísse como extrair as métricas sobre a saúde do SGBD e como elaborar as querys. 
+A maior parte do esforço desse semestre foi encontrar documentação que me instruísse como extrair as métricas sobre a saúde do SGBD e como elaborar as querys. 
 
-Como estávamos no 2º semestre, ainda não tínhamos experiência efetiva em elaborar querys que fossem bem estruturadas. Então a maior parte do desenvolvimento foi constituído por isso. 
+Como eu estava no 2º semestre, ainda não tinha experiência efetiva em elaborar querys que fossem bem estruturadas. Então a maior parte do desenvolvimento foi constituído por isso. 
 
-Também utilizamos Java como linguagem de programação da aplicação, que também foi um desafio visto que durante esse projeto foi a primeira vez que tivemos contato com a linguagem. 
+Também utilizei Java como linguagem de programação da aplicação, que também foi um desafio visto que durante esse projeto foi a primeira vez que tive contato com a linguagem. 
 
 Desenvolvi a conexão do banco de dados utilizando o SQLite, com nosso “historico.db”. como o trecho de código a seguir: 
 
@@ -211,7 +210,7 @@ mainClass  con = new mainClass ("postgres");
 }
 ```
 
-O banco que usamos para realizar o monitoramento foi um banco PostgreSQL.
+O banco que usei para realizar o monitoramento foi um banco PostgreSQL.
 
 ### Aprendizados Efetivos HS
 
@@ -226,11 +225,12 @@ O banco que usamos para realizar o monitoramento foi um banco PostgreSQL.
 
 <div align="center"> Projeto Integrador - 3° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Midall </div>
 
+
 ## Visão do Projeto
 
-"Temos um problema para criação de **promoções em um Ecommerce**. Precisamos de uma solução inteligente onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema." - MidAll.
+Este projeto teve como proposta a criação de **promoções em um Ecommerce**. Onde se era necessário uma solução inteligente com a qual, as mecânicas das promoções pudessem ser feitas de forma flexível e de rápida atualização no sistema.
 
-A ideia era criar um motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
+A ideia foi criar um motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
 
 ## Tecnologias adotadas na solução
 
@@ -254,13 +254,13 @@ Como linguagem de programação, o código Java é baseado em classes e orientad
 
 Minhas contribuições pessoais neste projeto foram principalmente na parte do desenvolvimento do backend e na modelagem e criação do banco de dados. 
 
-Para a modelagem do banco utilizei a ferramenta brModelo para criar as entidades, atributos e definir seus relacionamentos. Onde foi definido que: Um produto pode fazer parte de vários carrinhos e um carrinho precisa receber pelo menos um ou vários produtos. Uma promoção pertence a apenas um produto, já um produto pode fazer parte de diversas promoções, ou seja, uma promoção não pode existir sem um produto.
+Para a modelagem do banco utilizei a ferramenta brModelo para criar as entidades, atributos e definir seus relacionamentos onde foi definido que: Um produto pode fazer parte de vários carrinhos e um carrinho precisa receber pelo menos um ou vários produtos. Uma promoção pertence a apenas um produto, já um produto pode fazer parte de diversas promoções, ou seja, uma promoção não pode existir sem um produto.
 <details>
 <summary>Modelagem</summary>
 <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F718ca954-37be-47dd-8e1d-46bb63ffad25%2FUntitled.png?table=block&id=36cc1090-d8f6-4f7e-872e-83d9dad12b32&spaceId=70f68203-9aa8-48f2-9c19-ba66c1511816&width=2000&userId=607976c1-73b5-4be3-8f82-323ac698a9fd&cache=v2" width="500" height="400"/>
 </details>  
 
-Fui a responsável pelo desenvolvimento do projeto utilizando programação OO e a definição da utilização do Arquitetura do projeto: Models, Services, Repositories e Resources. Contribui também no desenvolvimento da lógica de verificar as promoções dos produtos no carrinho de compras. 
+Fui responsável pelo desenvolvimento do projeto utilizando programação OO e definição da utilização do Arquitetura do projeto: Models, Services, Repositories e Resources. Contribui, também, no desenvolvimento da lógica para verificar as promoções dos produtos no carrinho de compras. 
 <details>
 <summary> Packages </summary>
 <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7de10511-ef9a-4955-9d4e-e3b7d744e72a%2Fpatterns.png?table=block&id=566df640-3624-4898-889d-f0e018fb6683&spaceId=70f68203-9aa8-48f2-9c19-ba66c1511816&width=2000&userId=607976c1-73b5-4be3-8f82-323ac698a9fd&cache=v2" width="500" height="400"/>
@@ -280,20 +280,19 @@ Durante o desenvolvimento se tornou necessário a refatoração do código para 
 
 A linguagem de programação JavaScript foi utilizada sem nenhuma framework para o desenvolvimento do front-End, ou seja, a  interface com o usuário via  aplicação web. 
 
-Durante o projeto utilizamos o JQuery  para simplificar os scripts e interações com o HTML.
+Durante o projeto utilizei o JQuery  para simplificar os scripts e interações com o HTML.
 
 ### Aprendizados Efetivos HS
 
-Neste projeto desenvolvi mais minhas habilidades no back-End, aprendendo com utilizar uma Rest API considerada nova no mercado chamada Quarkus. Essa experiência me ajudou muito a como pesquisar  informações nas fontes primárias, que são as publicações técnicas geralmente realizadas pelos próprios criadores e responsáveis pelas mais diversas tecnologias. Considero esse aprendizado fundamental para minha trajetória pessoal e profissional, me tornando mais proativa em minhas skills de programação.
+Neste projeto desenvolvi mais minhas habilidades no back-End, aprendendo como  utilizar uma Rest API considerada nova no mercado chamada Quarkus. Essa experiência me ajudou muito a, como, pesquisar  informações nas fontes primárias, que são as publicações técnicas geralmente realizadas pelos próprios criadores e responsáveis pelas mais diversas tecnologias. Considero esse aprendizado fundamental para minha trajetória pessoal e profissional, me tornando mais proativa em minhas skills de programação.
 
-Já no front-End aprendi poucas coisas pois não foi minha principal foco de desenvolvimento no projeto mas aprendi um pouco sobre estruturas das páginas em HTML e funcionalidades em JavaScript.
+Já no front-End o aprendizado foi limitado pois não foi o foco de desenvolvimento no projeto, porém, aprendi um pouco sobre estruturas das páginas em HTML e funcionalidades em JavaScript.
 
 - Criação de CRUD’S completos;
 - Requisição GET, POST, PUT, DELETE;
 - Organizar a arquitetura do projeto de forma correta;
 - Usar lógica de programação para desenvolver regras para criação de promoções;
-- Desenvolver aplicações utilizando frameworks de REST API: Sei fazer com autonomia;
-
+- Desenvolver aplicações utilizando frameworks de REST API;
 
 
 
@@ -303,24 +302,24 @@ Já no front-End aprendi poucas coisas pois não foi minha principal foco de des
 
 ## Visão do Projeto
 
-Desenvolver uma plataforma web que organiza todos os dados referentes aos serviços prestados pela empresa, de forma interpretada, cujo o principal objetivo é criar chamados e agendamentos conforme as necessidades do cliente e solucioná-los de forma ponta a ponta entre a relação do cliente com o suporte e, suporte com a do administrador que, trabalha na criação e sincronização dos dados em um único lugar.
+Este projeto teve como foco desenvolver uma plataforma web que organiza todos os dados referentes aos serviços prestados pela empresa, de forma interpretada, cujo o principal objetivo é criar chamados e agendamentos conforme as necessidades do cliente e solucioná-los de forma ponta a ponta entre a relação do cliente com o suporte e, suporte com a do administrador que, trabalha na criação e sincronização dos dados em um único lugar.
 
 ## Tecnologias adotadas na solução
 
 ### Java
 
-Java é uma linguagem de programação orientada a objetos que foi criada na década de 1990 pela Sun Microsystems, e atualmente é propriedade da Oracle Corporation. É uma das linguagens de programação mais populares do mundo, usada em uma ampla variedade de aplicativos e sistemas, desde desenvolvimento de aplicativos desktop e web até jogos e dispositivos móveis.
+Java é uma linguagem de programação orientada a objetos criada na década de 1990 pela Sun Microsystems e é propriedade da Oracle Corporation. É uma das linguagens de programação mais populares do mundo, usada em uma ampla variedade de aplicativos e sistemas, desde desenvolvimento de aplicativos desktop e web até jogos e dispositivos móveis.
 
 ### Vue.js
 
-Vue.js é um framework de desenvolvimento web de código aberto e progressivo, amplamente utilizado para a criação de interfaces de usuário interativas. Ele se destaca pela sua simplicidade e facilidade de aprendizado, permitindo aos desenvolvedores criar aplicativos complexos de forma eficiente. Com uma arquitetura baseada em componentes, o Vue.js oferece uma abordagem modular para a construção de interfaces, facilitando a reutilização de código e a manutenção do projeto.
+Vue.js é um framework de desenvolvimento web de código aberto e progressivo, amplamente utilizado para a criação de interfaces de usuário interativas e se destaca pela sua simplicidade e facilidade de aprendizado, permitindo aos desenvolvedores criar aplicativos complexos de forma eficiente. Com uma arquitetura baseada em componentes, o Vue.js oferece uma abordagem modular para a construção de interfaces, facilitando a reutilização de código e a manutenção do projeto.
 
 ### SpringBoot
 
-O Spring Boot é um framework de desenvolvimento de aplicativos Java que visa facilitar a criação de aplicativos robustos e escaláveis. Ele fornece uma configuração simplificada e pré-definida, permitindo aos desenvolvedores se concentrarem na lógica de negócios em vez de tarefas de configuração. Com o Spring Boot, é possível criar rapidamente aplicativos Java de maneira eficiente, aproveitando a poderosa plataforma Spring.
+O Spring Boot é um framework de desenvolvimento de aplicativos Java que visa facilitar a criação de aplicativos robustos e escaláveis e fornece uma configuração simplificada e pré-definida, permitindo aos desenvolvedores se concentrarem na lógica de negócios em vez de tarefas de configuração. Com o Spring Boot, é possível criar rapidamente aplicativos Java de maneira eficiente, aproveitando a poderosa plataforma Spring.
 
 ## Contribuições pessoais
-Nesse projeto contribui principalmente na parte da definição de relacionamentos nas classes da aplicação, baseado em nossa modelagem do banco de dados. 
+Nesse projeto contribui principalmente na parte da definição de relacionamentos nas classes da aplicação baseada em nossa modelagem do banco de dados. 
 Desenvolvi também os CRUDS das classes de Chamados, Usuários e Agendamentos e a implementação de DTO'S nas classes que foram necessários.
 
 
@@ -356,9 +355,6 @@ Desenvolvi também os CRUDS das classes de Chamados, Usuários e Agendamentos e 
 - Utilizar relacionamentos entre classes;
 - Implementar níveis de acesso (Spring Security + JWT);
 - Utilizar ORM;
-
-
-
 
 <h1 align="center"><a href="https://github.com/PhatomFatec/Midall-DataTransfer" style="color: inherit; text-decoration: none;"> Projeto 5: 1º Semestre de 2023 </a></h1>
 
