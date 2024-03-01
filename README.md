@@ -132,16 +132,34 @@ if there_exists(["registrar faltas", "anotar faltas", "adicionar faltas", "cadas
 
 ### Aprendizados Efetivos HS
 
-Neste projeto pude começar a desenvolver minhas habilidades em linguagens de programação do zero. Aprendendo o que é uma função, entender como funciona a linguagem de programação Python e aplicar lógica de programação. 
-    
-Tendo também a oportunidade de conhecer metodologias ágeis e atuar como Scrum Master.  
-    
-- Usar lógica de programação para desenvolver cálculos;
-- Aprender como programar;
-- Aprender como usar uma IDE;
-- Aprender como fazer uma modelagem de banco de dados;
-- Aprender como usar bibliotecas;
-- Utilizar a biblioteca SpeechRecognition;
+Neste projeto pude começar a desenvolver minhas habilidades em linguagens de programação do zero. Abaixo listei alguns dos aprendizados obtidos nesse semestre:
+
+
+
+| Hard Skills                           | Nota (0-5) |
+|--------------------------------------|-------------|
+| Aprender como usar uma IDE |★★★★☆ |
+| Aprender como fazer um MER         |★★★★☆|
+|Aprender como programar   |★★★☆☆|
+| Lógica de programação   | ★★★☆☆ |
+| Metodologia Ágil - Scrum             | ★★★★☆ |
+| Biblioteca SpeechRecognition             |★★★☆☆|
+
+### Soft skills
+
+Em relação a Soft Skills acredito que pude evoluir nos seguintes aspectos:
+
+- Trabalho em equipe
+
+Melhorei minha habilidade de trabalhar em equipe. Saber me comunicar de forma clara com os colegas e realizar atividades em conjunto foi fundamental para o sucesso do projeto.
+
+- Metodologias ágeis
+
+Tive meu primeiro contato com metodologias ágeis onde pude aprender como funciona o Scrum, também tive oportunidade de aplicá-lo mesmo que de forma simples sendo Scrum Master da equipe. 
+
+- Proatividade
+  
+Por ser o ínicio de tudo, a proatividade foi fundamental para garantir a execução das entregas acordadas com o cliente. Demonstrei iniciativa ao buscar conhecimento de forma autônoma e assumir responsabilidades adicionais quando necessário.
 
 
 
@@ -149,6 +167,7 @@ Tendo também a oportunidade de conhecer metodologias ágeis e atuar como Scrum 
 <h1 align="center"><a href="https://github.com/PhatomFatec/PI_Necto_Systems" style="color: inherit; text-decoration: none;"> Projeto 2: 2º Semestre de 2021 </a></h1>
 
 <div align="center"> Projeto Integrador - 2° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Necto Systems </div>
+
 
 ## Visão do Projeto
 
@@ -214,10 +233,28 @@ O banco que usei para realizar o monitoramento foi um banco PostgreSQL.
 
 ### Aprendizados Efetivos HS
 
-- Aprender a programar em Java;
-- Aprender a elaborar queries em SQL;
-- Aprender a usar o postgreSQL;
-- Aprender a lidar diretamente com o cliente;
+
+
+| Hard Skills                           | Nota (0-5) |
+|--------------------------------------|-------------|
+| Aprender a programar em Java |★★★☆☆ |
+| Aprender a elaborar queries em SQL         |★★★★☆|
+|Aprender a usar o postgreSQL  |★★★☆☆|
+
+### Soft skills
+
+Em relação a Soft Skills acredito que pude evoluir nos seguintes aspectos:
+
+- Adaptação:
+  
+Acredito que durante esse projeto tive oportunidade de poder aprender a me adaptar a necessidade de trabalhar com diferentes tecnologias como Java e PostgreSQL que são ferramentas que não tinha trabalhado anteriormente. 
+
+
+- Colaboração:
+
+Trabalhar pela primeira vez com um cliente externo me fez aprender a necessidade de cultivar um ambiente colaborativo. Também me fez perceber que a entrega bem-sucedida do projeto vai além da simples realização das solicitações do cliente. E sim da colaboração entre o time de desenvolvimento e o cliente. 
+
+
 
 
 
@@ -288,11 +325,22 @@ Neste projeto desenvolvi mais minhas habilidades no back-End, aprendendo como  u
 
 Já no front-End o aprendizado foi limitado pois não foi o foco de desenvolvimento no projeto, porém, aprendi um pouco sobre estruturas das páginas em HTML e funcionalidades em JavaScript.
 
-- Criação de CRUD’S completos;
-- Requisição GET, POST, PUT, DELETE;
-- Organizar a arquitetura do projeto de forma correta;
-- Usar lógica de programação para desenvolver regras para criação de promoções;
-- Desenvolver aplicações utilizando frameworks de REST API;
+
+  | Hard Skills                           | Nota (0-5) |
+|--------------------------------------|-------------|
+| Criação de CRUD's |★★★★☆ |
+|Trabalhar com requisições GET, POST, PUT e DELETE | ★★★☆☆ |
+|Reestruturar projeto utilizando Design Patterns       |★★★★☆|
+| Utilizar logica de programação para criar motor de regra  |★★★☆☆|
+|Aprender a utilizar frameworks de REST API  | ★★★☆☆ |
+
+### Soft skills
+
+Tive também, a oportunidade de aprimorar minhas habilidades interpessoais, mais conhecidas como Soft Skills da seguinte maneira:
+
+- Adaptabilidade:
+
+Durante o desenvolvimento, foi necessário se adaptar a mudanças nos requisitos e na arquitetura do projeto. Lidar com essas mudanças demandou flexibilidade e capacidade de se ajustar a novos cenários levantados pelo cliente. 
 
 
 
@@ -351,17 +399,33 @@ Desenvolvi também os CRUDS das classes de Chamados, Usuários e Agendamentos e 
 </details>
 
 ### Aprendizados Efetivos HS
-- Utilizar persistência de dados;
-- Utilizar relacionamentos entre classes;
-- Implementar níveis de acesso (Spring Security + JWT);
-- Utilizar ORM;
+
+
+  | Hard Skills                           | Nota (0-5) |
+|--------------------------------------|-------------|
+|Utilizar persistência de dados |★★★★☆ |
+|Utilizar relacionamentos entre classes | ★★★☆☆ |
+|Implementar níveis de acesso (Spring Security + JWT)      |★★★☆☆|
+|Utilizar ORM |★★★☆☆|
+
+
+### Soft skills
+
+Durante esse projeto tive a oportunidade de aprimorar minhas habilidades interpessoais, mais conhecidas como Soft Skills da seguinte maneira:
+
+- Liderança:
+
+
+Desenvolver CRUDs e implementar DTOs em classes específicas me exigiram aprender a liderar em tarefas específicas para que os outros integrantes pudessem ficar por dentro do desenvolvimento. 
 
 <h1 align="center"><a href="https://github.com/PhatomFatec/Midall-DataTransfer" style="color: inherit; text-decoration: none;"> Projeto 5: 1º Semestre de 2023 </a></h1>
 
 <div align="center"> Projeto Integrador - 5° Semestre | Fatec Prof. Jessen Vidal - 2023 | Cliente parceiro: Midall </div>
 
 ## Visão do Projeto
-Automatizar a jornada de download de arquivos, armazenados em uma plataforma de vídeo, efetuando essa transferência para à nuvem, através do desenvolvimento de um serviço tipo aplicação, tendo como funcionalidade junto ao usuário apenas um menu de configuração, que terá os parâmetros necessários para que o serviço de download seja executado. Processar automaticamente, gerando alertas caso ocorram quaisquer erros. Salvar metadados de arquivos para construção de dashboard de monitoramento da execução do serviço e posterior análise de resultados e indicadores (ex.: quantidade de arquivos transferidos, quantidade de bytes transferidos, tempo de transferência, etc.).
+O desafio proposto foi desenvolver uma aplicação que realizasse a tranferência de arquivos entre clouds para que fosse possível tranferir arquivos de qualquer tamanho de forma eficiente e não manual. 
+
+Os objetivos destacados foram: Automatizar a jornada de download de arquivos, armazenados em uma plataforma de vídeo, efetuando essa transferência para à nuvem, através do desenvolvimento de um serviço tipo aplicação, tendo como funcionalidade junto ao usuário apenas um menu de configuração, que terá os parâmetros necessários para que o serviço de download seja executado. Processar automaticamente, gerando alertas caso ocorram quaisquer erros. Salvar metadados de arquivos para construção de dashboard de monitoramento da execução do serviço e posterior análise de resultados e indicadores (ex.: quantidade de arquivos transferidos, quantidade de bytes transferidos, tempo de transferência, etc.).
 
 ## Tecnologias adotadas na solução
 
@@ -451,16 +515,22 @@ Durante a execução desse projeto, fui responsável na área de desenvolvimento
     }
 	}
 	
-A parte mais desafiadora, foi compreender o funcionamento da API do Google pois tive que me aprofundar em leituras da documentação disponibilizada no Google e não existiam muitos artigos mais detalhados que pudessem nos auxiliar na implementação em nosso projeto. A parte de extração de metadados era crucial para que fosse possível seguir com o desenvolvimento do nosso Dashboard de monitoramento de desempenho da aplicação. A lógica utilizada para o desenvolvimento dessa funcionalidade foi: Após a realização do upload do arquivo (imagem ou vídeo) era realizado um GET responsável por recuperar os metadados de um arquivo no Google Drive com base em seu ID. 
+A parte mais desafiadora, foi compreender o funcionamento da API do Google pois tive que me aprofundar em leituras da documentação disponibilizada no Google e não existiam muitos artigos mais detalhados que pudessem nos auxiliar na implementação em nosso projeto. A parte de extração de metadados era crucial para que fosse possível seguir com o desenvolvimento do nosso Dashboard de monitoramento de desempenho da aplicação.
+
+A lógica utilizada para o desenvolvimento dessa funcionalidade foi: Após a realização do upload do arquivo (imagem ou vídeo), o arquivo era tranferido para nosso servidor local e logo em seguida enviado para o Google Drive  através da API, durante esse processo eram registrados os metadados, como ID, tamanho, nome do arquivo e data de envio. E por fim, foi realizado um GET responsável por recuperar os metadados de um arquivo no Google Drive com base em seu ID. 
 
  </details>
 
  <details>
   <summary> Desenvolvimento da dashboard </summary>
+	  <br></br>
 	 <img src="https://github.com/lara-leal/bertoti/assets/80706297/40392e65-11b5-4b75-891f-4845bd49b066"/>
 	 <br></br>
-	 Durante o desenvolvimento da dashboard, pude utilizar diferentes  recursos como o DAX do power BI com campos calculados, para armazenar e extrair informações como, tamanho do arquivo compartilhado e o tipo de arquivo mais compartilhado através da ferramenta.
-  	 <br></br>
+Durante a fase de desenvolvimento da dashboard, aproveitei vários recursos, incluindo o DAX (Data Analysis Expressions) do Power BI, incorporando campos calculados para otimizar a análise de dados.
+<br></br>
+	 
+A utilização foi estratégica para realizar cálculos avançados, contribuindo significativamente para a funcionalidade da dashboard. Os campos calculados foram especialmente úteis ao capturar métricas importantes, como o tamanho médio do arquivo compartilhado e a identificação do tipo de arquivo mais frequentemente compartilhado, os mesmos, foram projetados para proporcionar insights imediatos, facilitando a interpretação dos resultados e oferecendo uma visão abrangente do desempenho do serviço.
+<br></br>
 
 
 ``` 
@@ -500,21 +570,55 @@ MAXX (
     [tipo_arquivo]
 )
 ```
+</details>
 
- </details>
+ <details>
+<summary> Desenvolvimento de protótipos da aplicação </summary>
+<br></br>
+Também, desempenhei o papel de Product Owner, onde fui responsáve pela prototipagem da aplicação com a utilização da ferramenta Figma. Minhas responsabilidades incluíram a obtenção da aprovação do cliente para o design da aplicação e a validação de eventuais ajustes ao longo do projeto. Durante as sprints, assumi a responsabilidade de negociar as entregas, buscando equilíbrio entre as necessidades do cliente e o cronograma de execução da equipe.
+<br></br>
+<img src="https://i.ibb.co/g7JB5w8/image.png"></a>
 
-Também nesse semestre atuei como Product Owner, onde fui responsável por realizar a prototipagem da aplicação utilizando a ferramenta Figma para que o cliente aprovasse o design da aplicação e validar eventuais mudanças ao longo do projeto. Durante as sprints fui responsável por realizar a negociação da entregas, visando encontrar um equilíbrio entre a necessidade do cliente e o tempo de execução do time. 
+</details>
 
-<img src="https://i.ibb.co/zfLLfdW/image.png" alt="image" border="0"></a>
-
-Outro tópico que tive como responsabilidade foi implementar o Issue Controll para que  as "issues" fossem usadas para rastrear tarefas, melhorias, bugs e discussões em nosso repositório. 
+Além disso, desempenhei um papel crucial na implementação do Controle de Issues, uma iniciativa que possibilitou a utilização eficiente das "issues" para rastrear diversas dimensões do nosso projeto em nosso repositório. Essa ferramenta tornou-se fundamental para a gestão de tarefas, acompanhamento de melhorias, identificação e resolução de bugs, e facilitou discussões colaborativas entre os membros da equipe. Através do Issue Controll, conseguimos aprimorar a transparência, promover a colaboração e garantir um processo mais estruturado de gestão de projeto.
 
 
  ### Aprendizados Efetivos HS
- - Trabalhar com ferramentas da AWS; 
- - Utilizar Google drive API;
- - Entender insights de metadados para elaboração de dashboard de monitoramento;
 
+Ao desenvolver esse projeto, tive diversas evoluções técnicas como explorar novas tecnologias, proporcionando um amplo espaço para aprendizado. Algumas das principais experiências incluíram: 
+
+
+| Hard Skills                           | Nota (0-5) |
+|--------------------------------------|-------------|
+| Entender insights de metadados   | ★★★★★ |
+| Elaborar dashboard de monitoramento   |★★★★★|
+| Metodologia Ágil - Scrum             | ★★★★☆ |
+| Trabalhar com ferramentas da AWS         |★★★★☆|
+| Power BI |★★★★☆ |
+| Utilizar Google drive API             |★★★☆☆|
+
+
+### Soft skills
+
+
+Desenvolvi e aprimorei minhas habilidades interpessoais, as chamadas Soft Skills, que irei detalhar a seguir:
+
+- Resiliência
+  
+Trabalhar em ser resiliente foi fundamental diante dos desafios enfrentados. Enfrentar situações difíceis exigiu a capacidade de me adaptar, superar obstáculos e manter um equilíbrio positivo.
+
+- Comunicação Assertiva
+  
+Durante o desenvolvimento do projeto, acredito que evolui muito em saber como realizar uma comunicação assertiva, tive a oportunidade de trabalhar como Product Owner, onde tive aprender ainda mais a ter uma comunicação clara  e  de fácil compreensão para transmitir para o cliente nosso entendimento do desafio e propor a solução elaborada, para que ao longo do projeto as mudanças necessárias fossem apenas por conta da necessidade do projeto e não por falta de entendimento.
+  
+- Evolução do trabalho em equipe
+  
+Por ter um papel fundamental no desenvolvimento do projeto, foi fundamental que eu e o restante do time estivessemos alinhados para que o produto final fosse entregue como o esperado, precisei transmitir a idéia de solução que tive, discutir o escopo do projeto e debater opiniões em relação a funcionalidades, design e etc.
+
+- Visão de negócio
+
+Minha habilidade de organização e planejamento desempenhou um papel crucial ao assumir as funções de Product Owner. Tais responsabilidades demandaram uma gestão eficiente do backlog do produto, a definição clara de requisitos e uma colaboração próxima com as partes interessadas.
 
 
 
@@ -542,11 +646,22 @@ PostgreSQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) d
 O PostGIS é uma extensão do PostgreSQL para lidar com dados geoespaciais em bancos de dados relacionais. Ele permite armazenar, consultar e analisar informações de localização, sendo essencial para sistemas de informação geográfica (SIG) e análises territoriais, oferecendo operações complexas e indexação espacial para eficiência na manipulação de dados geográficos.
 
 ## Contribuições Pessoais
-Durante o projeto, minha principal contribuição consistiu na execução do extração, tratamento e carregamento de dados. O cliente nos forneceu os dados do banco por meio de arquivos .csv, juntamente com a modelagem atual do banco de dados. Inicialmente, realizei uma análise da modelagem, procedendo com a normalização e remodelagem do banco. 
 
+ <details>
+<summary> Modelagem do banco de dados </summary>
+<br></br>
+     
+Durante o projeto, minha principal contribuição consistiu na execução do extração, tratamento e carregamento de dados. O cliente nos forneceu os dados do banco por meio de arquivos .csv, juntamente com a modelagem atual do banco de dados. Inicialmente, realizei uma análise da modelagem, procedendo com a normalização e remodelagem do banco, focando em trazer apenas informações que fossem relevantes para o negócio. 
 
+<br></br>
 <img src="https://i.ibb.co/2hyqpXV/mer-3.png" alt="mer-3" border="0">
 
+</details>
+
+
+ <details>
+<summary> Tratamento de dados </summary>
+<br></br>
 
 Após essa fase, me dediquei ao tratamento dos dados, utilizando a biblioteca Pandas para filtrar exclusivamente as informações relacionadas à cultura de SOJA, uma vez que esses dados eram cruciais para atender às exigências da regra de negócio de nossa aplicação.
 ````
@@ -567,8 +682,12 @@ glebas_soja = glebas[(glebas['REF_BACEN'].isin(set(merged['REF_BACEN']))) & (gle
 ````
 
 
+</details>
 
-
+ <details>
+<summary> Criação de inserts e inserts de dados </summary>
+<br></br>
+     
 
 Posteriormente, após concluir o tratamento dos dados, realizei a criação dos comandos de INSERT dos dados no novo banco que fora criado.
 ````
@@ -596,6 +715,11 @@ with open('C:/Users/leall/OneDrive/Área de Trabalho/api-lara/GeoForesight-back/
         dataframe = query = f"INSERT INTO PUBLIC.operacao_credito_estadual(ref_bacen, nu_ordem, inicio_plantio, final_plantio, inicio_colheita, final_colheita, data_vencimento, idempreendimento, idevento, idsolo, idirrigacao, idciclo, idgrao, idcultivar, idprograma, estado) VALUES ('{ref_bacen}', '{nu_ordem}', '{inicio_plantio}', '{final_plantio}', '{inicio_colheita}', '{final_colheita}', '{data_vencimento}', {idempreendimento}, {idevento}, {idsolo}, {idirrigacao}, {idciclo}, {idgrao}, {idcultivar}, {idprograma}, '{estado}');\n"
         file.write(query)
 ````
+</details>
+
+ <details>
+<summary> Endpoint de criação e verificação de aceite de termos </summary>
+<br></br>
 
 Desempenhei um papel fundamental na implementação de alguns conceitos da Lei Geral de Proteção de Dados (LGPD) no backend da aplicação. Isso envolveu a elaboração de termos de uso e consentimento, a validação do aceite desses termos e a modificação da permissão concedida.
 
@@ -605,14 +729,16 @@ Desempenhei um papel fundamental na implementação de alguns conceitos da Lei G
 def verificar_aceitacao():
     current_user = get_jwt_identity()
 
-    query = text("""
-        SELECT id_user, au.id_termo , data_aceitacao, au.aceite
-            FROM aceitacao_usuario AS au
-            join public.user as u on u.id = au.id_user 
+    query = text(f"""
+         SELECT id_user, au.id_termo, tt.id_tipo, tt.tipo_desc ,data_aceitacao, au.aceite
+FROM aceitacao_usuario AS au
+join public.user as u on u.id = au.id_user 
+JOIN termos AS t ON t.id = au.id_termo
+JOIN tipo_termos AS tt ON tt.id_tipo = tt.id_tipo
             WHERE au.aceite = True
             AND au.data_aceitacao = ( SELECT MAX(data_aceitacao)
             FROM aceitacao_usuario
-            WHERE id_user = au.id_user);
+            WHERE id_user =:current_user);
     """)
 
     result = db.session.execute(query, {'current_user': current_user})
@@ -623,8 +749,10 @@ def verificar_aceitacao():
         termos_aceitos.append({
             'id_user': row[0],
             'id_termo': row[1],
-            'data_aceitacao': row[2].isoformat(),
-            'aceite': row[3]
+            'id_tipo': row[2],
+            'tipo_desc': row[3],
+            'data_aceitacao': row[4].isoformat(),
+            'aceite': row[5]
         })
     print(termos_aceitos)
 
@@ -634,8 +762,13 @@ def verificar_aceitacao():
         return jsonify({'message': 'Nenhum termo aceito encontrado'}), 404
 
 ````
+</details>
 
+<details>
+<summary>Utilização da extensão postGIS do PostgreSQL </summary>
+<br></br>
 Também tive a oportunidade de aprender como utilizar a extensão postGIS do PostgreSQL, que cria primeiramente tabelas com colunas espaciais, e entender como é feito um insert de dados geográficos. Por exemplo, na criação da coluna "coordenadas" é utilizado o tipo geography(Point,4326), que é utilizado para armazenar informações geográficas no formato Point usando o sistema de referência espacial WGS 84 (SRID 4326). 
+<br></br>
 
 ````
 CREATE TABLE IF NOT EXISTS public.glebas
@@ -661,8 +794,36 @@ Já para criar um insert é necessário utilizar a função ST_GeogFromText que 
 ````
 INSERT INTO PUBLIC.GLEBAS(REF_BACEN,  NU_ORDEM, LONGITUDE, LATITUDE,  COORDENADAS, ALTITUDE, NU_PONTO,NU_IDENTIFICADOR) VALUES('513678782','1',-52.2909909,-27.7581412,ST_GeogFromText('POINT(-52.2909909 -27.7581412)'),0,29,1);
 ````
+
+</details>
+
 ###  Aprendizados Efetivos HS
-- Trabalhar com a biblioteca Pandas do Python para extrair, transformar e carregar dados;
-- Utilizar a extensão postGIS do PostgreSQL;
-- Remodelagem e normalização de um banco de dados legado;
-- Trabalhar com Flask para desenvolvimento do backend da aplicação;
+
+Ao desenvolver esse projeto, tive diversas evoluções técnicas como explorar novas tecnologias, proporcionando um amplo espaço para aprendizado. Algumas das principais experiências incluíram:
+
+| Hard Skills                           | Nota (0-5) |
+|--------------------------------------|-------------|
+| Trabalhar com a biblioteca Pandas do Python   | ★★★★★ |
+| Utilizar a extensão postGIS do PostgreSQL   |★★★★★|
+| Extrair, transformar e carregar dados             |★★★★★|
+| Metodologia Ágil - Scrum             | ★★★★☆ |
+|Remodelagem e normalização de um banco de dados legado        |★★★★☆|
+| Trabalhar com Flask para desenvolvimento do backend da aplicação|★★★★☆ |
+
+### Soft skills
+
+
+Desenvolvi e aprimorei minhas habilidades interpessoais, as chamadas Soft Skills:
+
+- Resolução de Problemas 
+
+Lidar com a normalização e remodelagem de um banco de dados legado e enfrentar desafios técnicos, como a manipulação de dados geográficos, resaltam minha evolução na capacidade de resolver problemas eficientemente. 
+
+- Gestão do Tempo
+
+O envolvimento em diferentes aspectos do projeto, levantamento de requisitos com o cliente, tratamento de dados até a criação de comandos SQL, me fizeram encontrar uma forma de gerenciar eficientemente o tempo e priorizar tarefas.
+
+
+- Comunicação
+  
+A discussão em equipe para definir como desenvolver a elaboração de termos de uso, consentimento, e utilização da extensão postGIS do PostgreSQL, me fizeram evoluir e desenvolver habilidades eficazes de comunicação para traduzir informações técnicas de forma compreensível.
