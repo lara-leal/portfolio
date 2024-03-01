@@ -1,6 +1,6 @@
 # Lara Oliveira Leal
 ## Introdução
-<img align='right' src="https://media.discordapp.net/attachments/888964389368131629/1175834034404872253/fotor-2023111913227.png?ex=656cabc7&is=655a36c7&hm=5b0e72e0874ba809bb134b2ba1a0893a520970e815da7124df84da8dc042a61b&=&width=565&height=565" width="200" height="200"/>
+<img align='right' src="https://raw.githubusercontent.com/lara-leal/portfolio/main/image/fotor-20240301133711.png" width="200" height="200"/>
 
 <p style="text-align: justify;"> 
 Olá! Meu nome é Lara Leal, sou de São José dos Campos - SP, e tenho 22 anos. Desde criança sempre fui muito curiosa, característica que me acompanha até hoje. No Ensino Médio, cursei Técnico em Química no CEPHAS (Centro Educacional Hélio Augusto de Souza) movida pela minha curiosidade. Terminei o técnico e, logo em seguida, veio o início da pandemia. Foi nesse momento que tomei conhecimento do Vestibular da FATEC e decidi prestá-lo para explorar mais sobre o mundo da tecnologia. Visto que seria online naquele momento, achei que seria uma ótima oportunidade para adquirir conhecimento durante essa fase desafiadora.
