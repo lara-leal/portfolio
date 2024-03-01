@@ -7,9 +7,6 @@ Olá! Meu nome é Lara Leal, sou de São José dos Campos - SP, e tenho 22 anos.
 
 Minha primeira experiência com programação aconteceu na faculdade, onde aprendi Python nas aulas de LP 1. Atualmente, meu foco principal é o Back-End e Ciência de Dados. Tenho mais familiaridade com as linguagens Python e Java, o que me permite desenvolver web services, utilizar padrões de projetos e criar arquiteturas. Também tenho conhecimento em frameworks amplamente utilizados no mercado, como Quarkus, SpringBoot e Flask.
 
-Atualmente, trabalho como Analista de Sistemas na Farma Conde. Minhas principais responsabilidades envolvem levantamento de requisitos, arquitetura e modelagem de banco de dados, além do desenvolvimento de automações de processos. </p>
-
-
 
 <h1 align="center"><a href="https://github.com/silvercod3/Athena" style="color: white; text-decoration: none;"> Projeto 1: 1º Semestre de 2021 </a></h1>
 
