@@ -5,6 +5,8 @@
 <p style="text-align: justify;"> 
 Olá! Meu nome é Lara Leal, sou de São José dos Campos - SP, e tenho 22 anos. Desde criança sempre fui muito curiosa, característica que me acompanha até hoje. No Ensino Médio, cursei Técnico em Química no CEPHAS (Centro Educacional Hélio Augusto de Souza) movida pela minha curiosidade. Terminei o técnico e, logo em seguida, veio o início da pandemia. Foi nesse momento que tomei conhecimento do Vestibular da FATEC e decidi prestá-lo para explorar mais sobre o mundo da tecnologia. Visto que seria online naquele momento, achei que seria uma ótima oportunidade para adquirir conhecimento durante essa fase desafiadora.
 
+
+
 Minha primeira experiência com programação aconteceu na faculdade, onde aprendi Python nas aulas de LP 1. Atualmente, meu foco principal é o Back-End e Ciência de Dados. Tenho mais familiaridade com as linguagens Python e Java, o que me permite desenvolver web services, utilizar padrões de projetos e criar arquiteturas. Também tenho conhecimento em frameworks amplamente utilizados no mercado, como Quarkus, SpringBoot e Flask.
 
 
